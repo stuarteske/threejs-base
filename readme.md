@@ -15,3 +15,5 @@ yarn dev
 # Build for production in the dist/ directory
 yarn build
 ```
+## Tools
+Download [Normal Map Generator](https://cpetry.github.io/NormalMap-Online/).
